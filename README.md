@@ -1,1 +1,1 @@
-# Geospatial-Remote-Sensing-applicatoin
+# Geospatial-Remote-Sensing-application
